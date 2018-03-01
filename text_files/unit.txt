@@ -1,0 +1,56 @@
+Filename: Desperado.1995.1080p.BluRay.x264.YIFY.mp4
+Size: 1.60
+Unit: GB
+Path: D:\Pelikula\Desperado [1995]\
+Actual Size: 1714401588
+Full Path: D:\Pelikula\Desperado [1995]\Desperado.1995.1080p.BluRay.x264.YIFY.mp4
+Date: 2017-10-19 23:40:22
+
+Filename: Leprechaun [1993].avi
+Size: 1.46
+Unit: GB
+Path: D:\Pelikula\Leprechaun [1993]\
+Actual Size: 1565988864
+Full Path: D:\Pelikula\Leprechaun [1993]\Leprechaun [1993].avi
+Date: 2017-10-19 23:40:22
+
+Filename: Sniper Reloaded [2011].avi
+Size: 1.37
+Unit: GB
+Path: D:\Pelikula\Sniper 4 [2011] Reloaded\
+Actual Size: 1467338752
+Full Path: D:\Pelikula\Sniper 4 [2011] Reloaded\Sniper Reloaded [2011].avi
+Date: 2017-10-19 23:40:22
+
+Filename: The.Matrix.Revolutions.2003.1080p.BrRip.x264.YIFY.mp4
+Size: 1.85
+Unit: GB
+Path: D:\Pelikula\The Matrix Revolutions [2003]\
+Actual Size: 1989737808
+Full Path: D:\Pelikula\The Matrix Revolutions [2003]\The.Matrix.Revolutions.2003.1080p.BrRip.x264.YIFY.mp4
+Date: 2017-10-19 23:40:22
+
+Filename: Tremors 1 [1990].mp4
+Size: 1.11
+Unit: GB
+Path: D:\Pelikula\Tremors 1 [1990]\
+Actual Size: 1190734723
+Full Path: D:\Pelikula\Tremors 1 [1990]\Tremors 1 [1990].mp4
+Date: 2017-10-19 23:40:22
+
+Filename: Tremors II Aftershocks.mp4
+Size: 1.16
+Unit: GB
+Path: D:\Pelikula\Tremors 2 [1996]\
+Actual Size: 1242175540
+Full Path: D:\Pelikula\Tremors 2 [1996]\Tremors II Aftershocks.mp4
+Date: 2017-10-19 23:40:22
+
+Filename: Vampires.Suck.EXTENDED.2010.1080p.BrRip.x264.YIFY.mp4
+Size: 1.20
+Unit: GB
+Path: D:\Pelikula\Vampires Suck  [2010]\
+Actual Size: 1290842968
+Full Path: D:\Pelikula\Vampires Suck  [2010]\Vampires.Suck.EXTENDED.2010.1080p.BrRip.x264.YIFY.mp4
+Date: 2017-10-19 23:40:22
+

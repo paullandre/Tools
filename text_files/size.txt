@@ -1,0 +1,32 @@
+Filename: Home.Alone.1-1990[DvdRip]Dual.Audio[Eng-Hindi].mkv
+Size: 878.56
+Unit: MB
+Path: D:\Pelikula\Home Alone 1 [ 1990]\
+Actual Size: 921235427
+Full Path: D:\Pelikula\Home Alone 1 [ 1990]\Home.Alone.1-1990[DvdRip]Dual.Audio[Eng-Hindi].mkv
+Date: 2017-10-19 23:40:42
+
+Filename: Home.Alone.2.Lost.in.New.York.1992.720p.BluRay.x264.YIFY.mp4
+Size: 864.92
+Unit: MB
+Path: D:\Pelikula\Home Alone 2 - Lost in New York [1992]\
+Actual Size: 906932153
+Full Path: D:\Pelikula\Home Alone 2 - Lost in New York [1992]\Home.Alone.2.Lost.in.New.York.1992.720p.BluRay.x264.YIFY.mp4
+Date: 2017-10-19 23:40:43
+
+Filename: The Gods Must Be Crazy 1(1980) with English Sub-Tittles x264 AC-3 { therock7 }.mkv
+Size: 897.70
+Unit: MB
+Path: D:\Pelikula\THE GODS MUST BE CRAZY 1 [1980]\
+Actual Size: 941307994
+Full Path: D:\Pelikula\THE GODS MUST BE CRAZY 1 [1980]\The Gods Must Be Crazy 1(1980) with English Sub-Tittles x264 AC-3 { therock7 }.mkv
+Date: 2017-10-19 23:40:43
+
+Filename: Three.Kings.1999.720p.BluRay.x264.AAC-ETRG.mp4
+Size: 860.97
+Unit: MB
+Path: D:\Pelikula\Three Kings [1999]\
+Actual Size: 902790649
+Full Path: D:\Pelikula\Three Kings [1999]\Three.Kings.1999.720p.BluRay.x264.AAC-ETRG.mp4
+Date: 2017-10-19 23:40:43
+
